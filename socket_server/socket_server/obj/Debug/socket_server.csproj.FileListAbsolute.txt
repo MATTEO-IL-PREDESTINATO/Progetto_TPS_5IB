@@ -1,0 +1,10 @@
+C:\Users\matte\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe.config
+C:\Users\matte\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe
+C:\Users\matte\source\repos\socket_server\socket_server\bin\Debug\socket_server.pdb
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.AssemblyReference.cache
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.Form1.resources
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.Properties.Resources.resources
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.GenerateResource.cache
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.exe
+C:\Users\matte\source\repos\socket_server\socket_server\obj\Debug\socket_server.pdb
