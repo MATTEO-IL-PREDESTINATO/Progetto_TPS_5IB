@@ -1,0 +1,60 @@
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\bin\Debug\Guna.UI2.dll
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Form1.resources
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Properties.Resources.resources
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CopyComplete
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe.config
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\Guna.UI2.dll
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Form1.resources
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Properties.Resources.resources
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CopyComplete
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe.config
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.pdb
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\bin\Debug\Guna.UI2.dll
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.AssemblyReference.cache
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Form1.resources
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Properties.Resources.resources
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.GenerateResource.cache
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CopyComplete
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.exe
+C:\Users\ivan0\Desktop\Nuova cartella\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe.config
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\Guna.UI2.dll
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Form1.resources
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Properties.Resources.resources
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CopyComplete
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe.config
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\TELECOMANDO.pdb
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\bin\Debug\Guna.UI2.dll
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Form1.resources
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.Properties.Resources.resources
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.csproj.CopyComplete
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.exe
+C:\Users\matte\Desktop\scuola\TEP\Progetto funzionante\TELECOMANDO\TELECOMANDO\obj\Debug\TELECOMANDO.pdb
